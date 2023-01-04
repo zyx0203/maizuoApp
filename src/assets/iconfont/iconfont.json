@@ -1,0 +1,37 @@
+{
+  "id": "3655545",
+  "name": "video2",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "122688",
+      "name": "back",
+      "font_class": "back",
+      "unicode": "e697",
+      "unicode_decimal": 59031
+    },
+    {
+      "icon_id": "16618565",
+      "name": "folder",
+      "font_class": "folder",
+      "unicode": "e6b0",
+      "unicode_decimal": 59056
+    },
+    {
+      "icon_id": "16618578",
+      "name": "address book",
+      "font_class": "addressbook",
+      "unicode": "e6b4",
+      "unicode_decimal": 59060
+    },
+    {
+      "icon_id": "16619090",
+      "name": "live",
+      "font_class": "live",
+      "unicode": "e6c4",
+      "unicode_decimal": 59076
+    }
+  ]
+}
